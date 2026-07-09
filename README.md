@@ -1,33 +1,45 @@
-# Tippmix Nyilvántartó
+# TippMix Nyilvántartó
 
-Windows Forms alkalmazás sportfogadási mérkőzések és szelvények nyilvántartására.
+C# Windows Forms alkalmazás sportfogadási mérkőzések, tippek és szelvények kezelésére.
 
 ## Funkciók
 
-- Csapatok rögzítése
+- Csapatok rögzítése és kezelése
 - Mérkőzések hozzáadása
-- Tipp típus kiválasztása
-- Odds kezelése
+- Tipp típusok kezelése
+- Odds adatok kezelése
 - BTTS fogadás támogatása
 - Mérkőzések listázása
-- Mérkőzések módosítása
-- Mérkőzések törlése
+- Adatok módosítása és törlése
+- CRUD műveletek alkalmazása
 - Összes odds kiszámítása
 - Várható nyeremény számítása
 
-## Használt technológiák
+## Technológiák
 
 - C#
 - Windows Forms
+- .NET Framework
 - MySQL
+- SQL
 - ADO.NET
 - DataGridView
-- SQL
-- OOP
+- Object-Oriented Programming (OOP)
+- Git & GitHub
 
 ## Projekt célja
 
-A projekt célja egy egyszerű sportfogadási nyilvántartó elkészítése, amely bemutatja az adatbázis-kezelést, a CRUD műveleteket és az objektumorientált programozást.
+A projekt célja egy adatbázis-alapú sportfogadási nyilvántartó rendszer elkészítése.
+
+A fejlesztés során gyakoroltam az adatbázis-kezelést, a CRUD műveletek megvalósítását, az SQL lekérdezéseket és az objektumorientált programozási elvek alkalmazását.
+
+## Főbb programozási megoldások
+
+- Adatbázis kapcsolat kialakítása MySQL használatával
+- Adatok lekérdezése és kezelése SQL segítségével
+- Objektumorientált osztálystruktúra kialakítása
+- Eseményvezérelt programozás Windows Forms környezetben
+- Adatok megjelenítése DataGridView segítségével
 
 ## Fejlesztő
 
